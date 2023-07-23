@@ -1,3 +1,11 @@
 import streamlit
 
-streamlit.title('My First Streamlit App')
+streamlit.title('South Indian Tiffins')
+streamlit.header('Menu')
+streamlit.text('Dosa')
+streamlit.text('Idli')
+streamlit.text('Vada')
+streamlit.text('Sambar')
+
+
+
